@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chchjcr/menu.git"
+    "url": "git+https://github.com/chchjcrIT/menu.git"
   },
-  "author": "Aloysius Lip",
+  "author": "Dylan Zhao",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chchjcr/menu/issues"
